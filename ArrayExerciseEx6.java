@@ -1,6 +1,7 @@
 /*
  * Define an array with 10 integers and print all the elements with its index number.
  */
+/* This is test code*/
 
 package org.apex.assignment;
 import java.util.Random;
