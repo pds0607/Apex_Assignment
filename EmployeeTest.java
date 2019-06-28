@@ -2,6 +2,7 @@ package org.apex.assignment;
 
 public class EmployeeTest {
 
+	/* samle code comment */
 	public static void main(String[] args) {
 		EmployeeEx7 employee1 = new EmployeeEx7(100, "employee1");
 		EmployeeEx7 employee2 = new EmployeeEx7(200, "employee2");
