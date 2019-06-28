@@ -14,7 +14,8 @@ public class BasicCalulatorTest {
 		//System.out.println("e.g. number1 + number2  OR number1 - number2 OR number1 * number2 OR number1 / number2");
 		///Scanner inputNumber = new Scanner(System.in);
 		
-		
+
+		/* new comment to test git conflict */		
 		System.out.println(BasicCalulatorEx3.addMethod(5, 6));
 		System.out.println(BasicCalulatorEx3.subtractMethod(4, 6));
 		System.out.println(BasicCalulatorEx3.multiplyMethod(4, 7));
