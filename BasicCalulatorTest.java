@@ -6,7 +6,7 @@ package org.apex.assignment;
  */
 public class BasicCalulatorTest {
 
-	/* sample comment in calculater program */
+	/* sample comment in calculater program fix in comments */
 	public static void main(String[] args) {
 		//int num;
 
