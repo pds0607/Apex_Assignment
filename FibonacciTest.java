@@ -9,6 +9,7 @@ public class FibonacciTest {
 	public static void main(String[] args) {
 		int num;
 
+		/* test comment to add */
 		System.out.print("Enter the number: ");
 		Scanner inputNumber = new Scanner(System.in);
 		
